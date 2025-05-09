@@ -19,7 +19,7 @@ This repo showcases two classic Java design patterns—served with a side of roc
 
 ---
 HERE MY UML DIAGRAM:
-![UML diagram to Iterator and MEdiator](images/1.png) 
+![UML diagram to Iterator and MEdiator](image/1.png) 
 if it doesn't open, then here is an alternative:
 @startuml
 ' --- Iterator Pattern ---
